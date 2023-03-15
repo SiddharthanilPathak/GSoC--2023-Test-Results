@@ -1,0 +1,10 @@
+I didn't know fully about the cleanTS package. I read about it from some resources. I can think of the following Updations in the cleanTS package. 
+
+1. Make the code of Some functions(that are possible) in RCpp, so that the running time of the functions becomes fast.
+2. Make a functions to give list of different types visualization possible with the given Univariate Data, that can give some inference.
+3. Add fuctions to make Statistical inferences about the data( I am learning the course Theroy of Statistics so, can say about it in detail).
+4. Improve the Documentation of the existing functions.
+5. We Can make the Shiny App shown by function interact_plot() more informative and more interactive.
+6. We can add a function who follows a template and generate a readble document/text that gives information about the dataset.
+
+These are some updations I think can be implemented. I know some of them are not that good and there are many which I can not think of for now. 
